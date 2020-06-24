@@ -1,0 +1,1 @@
+Creator: {Amao true} {chan true}
